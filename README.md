@@ -1,6 +1,6 @@
 # informational-website
 
-Here is the instruction and commands...
+# Here is the instruction and commands...
 First create a folder on your machine and clone this folder by this command
 >> git clone https://github.com/wasimranacse/informational-website.git
 >> pip install virtualenv
